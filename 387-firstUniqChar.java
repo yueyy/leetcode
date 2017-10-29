@@ -1,3 +1,7 @@
+/*
+Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+*/
+
 import java.util.Scanner;
 
 public class Solution
@@ -10,7 +14,7 @@ public class Solution
         for (int i = 0; i < a.length; i++) {
             for (int j = 1; j < a.length; j++) {
 
-// 尝试过很多种……emmmmm扶额摊手无奈
+// 尝试过很多种……emmmmm扶额摊手无奈状 但这个明明看起来很简单啊哭
 
             }
         }
