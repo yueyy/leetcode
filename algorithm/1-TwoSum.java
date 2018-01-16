@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Solution {
     public static int[] twoSum(int[] nums, int target){
         int[] output = new int[2];
